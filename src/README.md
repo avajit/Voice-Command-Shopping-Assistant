@@ -6,8 +6,12 @@ A smart, voice-powered shopping list manager with AI-driven suggestions and natu
 
 This application was developed as a technical assessment for a Software Engineering position. It demonstrates advanced frontend development skills, voice recognition integration, and intelligent user experience design.
 
-**Live Demo:** [Your Deployment URL Here]  
-**Repository:** [Your GitHub URL Here]
+## 🎯 Project Overview
+
+This application was built as a fully voice-controlled shopping assistant using React, TypeScript, and the Web Speech API. It supports natural language commands, multilingual recognition, smart product suggestions, and advanced UI/UX.
+
+**🔗 Live Demo:** https://melodic-lollipop-d54cf9.netlify.app/  
+**🔗 GitHub Repository:** https://github.com/avajit/Voice-Command-Shopping-Assistant
 
 ## ✨ Key Features
 
